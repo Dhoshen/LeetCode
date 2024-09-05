@@ -1,2 +1,2 @@
 # LeetCode
-Hello everyone! , If you are looking for a place that contains answers to LeetCode answers then you have come to the right place :)
+Hello everyone! , If you are looking for a place that contains answers to LeetCode questions then you have come to the right place :)
